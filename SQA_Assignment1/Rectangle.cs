@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SQA_Assignment1
 {
-    class Rectangle
+    public class Rectangle
     {
         private int width;
         private int length;

@@ -1,0 +1,12 @@
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\SQA_Assignment1_Test.dll
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\SQA_Assignment1_Test.pdb
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\nunit.framework.dll
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\SQA_Assignment1.exe
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\SQA_Assignment1.pdb
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\SQA_Assignment1.exe.config
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\bin\Debug\nunit.framework.xml
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\obj\Debug\SQA_Assignment1_Test.csprojAssemblyReference.cache
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\obj\Debug\SQA_Assignment1_Test.csproj.CoreCompileInputs.cache
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\obj\Debug\SQA_Assignment1_Test.csproj.CopyComplete
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\obj\Debug\SQA_Assignment1_Test.dll
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1_Test\obj\Debug\SQA_Assignment1_Test.pdb
