@@ -1,0 +1,7 @@
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\bin\Debug\SQA_Assignment1.exe.config
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\bin\Debug\SQA_Assignment1.exe
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\bin\Debug\SQA_Assignment1.pdb
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\obj\Debug\SQA_Assignment1.csprojAssemblyReference.cache
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\obj\Debug\SQA_Assignment1.csproj.CoreCompileInputs.cache
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\obj\Debug\SQA_Assignment1.exe
+G:\Conestoga\W2019\Sem 2\PROG8170\Visual Code\SQA_Assignment1\SQA_Assignment1\obj\Debug\SQA_Assignment1.pdb
